@@ -1,0 +1,9 @@
+.form-controls{
+  display: flex;
+    background-color: rgb(138, 210, 210);
+    width: 50%;
+    margin-left: 20rem;
+    padding: 2rem;
+    border-radius: 4rem;
+    margin-top: 8rem;
+}
